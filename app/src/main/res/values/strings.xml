@@ -6,4 +6,6 @@
     <string name="txt_dangnhap">Vui lòng đăng nhập</string>
     <string name="txt_quanlynhansu">QUẢN LÝ NHÂN SỰ</string>
     <string name="txt_FPOLY">FPOLY SOFTWARE COMPANY</string>
+    <string name="txt_FACULTY">FACULTY INFORMATION TECHNOLOGY</string>
+    <string name="txt_caodang">caodang.fpt.edu.vn</string>
 </resources>
