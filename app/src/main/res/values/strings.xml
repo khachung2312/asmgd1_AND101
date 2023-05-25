@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ASSGD1_AND101</string>
+    <string name="txt_chaomungban">Chào mừng bạn,</string>
+    <string name="txt_dangkytaikhoan">Đăng kí tài khoản</string>
+    <string name="txt_chaomungbantrolai">Chào mừng bạn trở lại,</string>
+    <string name="txt_dangnhap">Vui lòng đăng nhập</string>
+    <string name="txt_quanlynhansu">QUẢN LÝ NHÂN SỰ</string>
+    <string name="txt_FPOLY">FPOLY SOFTWARE COMPANY</string>
+</resources>
